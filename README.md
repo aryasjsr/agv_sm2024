@@ -308,7 +308,7 @@ TODO: License declaration
 
 ## 🏆 Acknowledgments
 
-Proyek ini dikembangkan untuk kompetisi Smart Manufacturing 2024.
+Proyek ini dikembangkan untuk proyek kampus
 
 ---
 
